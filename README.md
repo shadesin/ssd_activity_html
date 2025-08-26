@@ -11,10 +11,6 @@ The page includes:
 - **Education** (Class 10, Class 12, Graduation, Post-Graduation)
 - **Skills**
 
-## How to Use
-1. Clone or download the repository.
-2. Place your profile picture in the project folder and rename it as `profile.jpg` (or update the `src` attribute in the HTML file).
-3. Open `index.html` in any browser to view the page.
 
 ## Technologies Used
 - HTML5
@@ -24,4 +20,4 @@ The page includes:
 The page is lightweight and responsive, designed with clean formatting for readability.
 
 ---
-✨ Created by **Souradeep Das**
+Created by **Souradeep Das**
